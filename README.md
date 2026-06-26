@@ -1,6 +1,7 @@
 # inventory_management_system
 
-In this project i built an inventory management system using python in a google colaboratory (jupyter notebook) environment. 
+In this project I built an inventory management system using python in a google colaboratory (jupyter notebook) environment. 
+
 With the inventory management system you can
 - Store products and their quantities
 - Add new products
